@@ -1,0 +1,20 @@
+langchain_community 
+tiktoken 
+langchain-openai 
+langchainhub 
+chromadb 
+langchain
+beautifulsoup4
+# New addon to use Azure
+langchain-openai
+pandas
+transformers
+python-dotenv
+# to load pdf
+pypdf
+umap-learn
+chromadb
+sentence_transformers
+tqdm
+matplotlib
+numpy
